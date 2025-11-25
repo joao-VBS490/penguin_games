@@ -1,0 +1,11 @@
+Segue o desenvolvimento do MVP do Projeto Integrador.
+
+Colaborado pelos integrantes:
+JONATHAN ALEXANDRE VEIGA DA SILVA
+MATHEUS AUGUSTO CERIBELLI MECA
+JHONATAS BENIGNO DOS SANTOS
+TEO CARVALHO
+VICTOR GABRIEL PEREIRA DE ASSIS
+JOAO VICTOR BARBOSA SANTANA
+
+Segue link dos videos: https://youtu.be/K7EYdQ_MM74
